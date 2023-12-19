@@ -1,0 +1,4 @@
+openai==1.5.0
+yt-dlp==2023.11.16
+supervision==0.17.1
+streamlit==1.29.0
